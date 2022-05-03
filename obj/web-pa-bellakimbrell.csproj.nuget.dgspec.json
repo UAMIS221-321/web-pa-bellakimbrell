@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bellakimbrell/Documents/SCHOOL/MIS221/PROJECTS/webPA/web-pa-bellakimbrell/web-pa-bellakimbrell.csproj": {}
+  },
+  "projects": {
+    "/Users/bellakimbrell/Documents/SCHOOL/MIS221/PROJECTS/webPA/web-pa-bellakimbrell/web-pa-bellakimbrell.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bellakimbrell/Documents/SCHOOL/MIS221/PROJECTS/webPA/web-pa-bellakimbrell/web-pa-bellakimbrell.csproj",
+        "projectName": "web-pa-bellakimbrell",
+        "projectPath": "/Users/bellakimbrell/Documents/SCHOOL/MIS221/PROJECTS/webPA/web-pa-bellakimbrell/web-pa-bellakimbrell.csproj",
+        "packagesPath": "/Users/bellakimbrell/.nuget/packages/",
+        "outputPath": "/Users/bellakimbrell/Documents/SCHOOL/MIS221/PROJECTS/webPA/web-pa-bellakimbrell/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bellakimbrell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
